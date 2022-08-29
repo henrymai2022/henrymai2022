@@ -17,9 +17,10 @@
 ---
 
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henrymai2022&theme=github" alt="github stats"></br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henrymai2022&theme=github">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=henrymai2022&theme=github"></br></p>
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
