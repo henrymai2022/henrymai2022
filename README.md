@@ -4,7 +4,7 @@
 
 ## A little bit about me
 
-🎓 &nbsp;I'm currently juggling these [Udacity](https://imp.i115008.net/BXeWKW) courses and intend to complete them soon:
+🎓 &nbsp;I'm currently juggling these [HCMUS](https://www.hcmus.edu.vn/) courses and intend to complete them soon:
 
 - [AWS Machine Learning Engineer Nanodegree](https://imp.i115008.net/VyRr4M)
 - [Cloud Architect using Microsoft Azure](https://imp.i115008.net/7mLA1y)
