@@ -49,7 +49,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <p align="center">
   <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:dannymai2012@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.linkedin.com/in/anh-tuan-mai-28701a147/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="linkedin"/></a>
   <a href="https://www.facebook.com/maianh.tuan.2910/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="facebook"/></a>
 </p>
