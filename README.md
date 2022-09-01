@@ -1,6 +1,6 @@
-<h3 align="center">Hi, I'm Henry Mai :wave:</a></h3>
+<h3 align="center">Hi, I'm Henry Mai :wave:
 ===================
-<h3 align="center">Data Analysis/Data Engineer/Machine Learning(Full Stack) | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
+Data Analysis/Data Engineer/Machine Learning(Full Stack) | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 
 ## A little bit about me
 
