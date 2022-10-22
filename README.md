@@ -48,6 +48,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <p align="center">
   <a href="https://henrymai.website/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
   <a href="https://leetcode.com/dannymai2012/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="darkwood"/></a>
+  <a href="https://www.hackerrank.com/dannymai2012"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
   <a href="mailto:dannymai2012@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/anh-tuan-mai-28701a147/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="linkedin"/></a>
   <a href="https://www.facebook.com/maianh.tuan.2910/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="facebook"/></a>
