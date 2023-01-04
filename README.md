@@ -4,8 +4,10 @@
 
 ## A little bit about me
 
-🎓 &nbsp;I'm currently juggling these [HCMUS](https://www.hcmus.edu.vn/) courses and intend to complete them soon:
+🎓 &nbsp;I'm currently juggling these [HCMUS](https://www.hcmus.edu.vn/) courses and intend to complete them soon
+
 🎓 Bachelor of English Language in [HCMUSSH](https://hcmussh.edu.vn/)
+
 🎓 Bachelor of Business Management in [PTIT](https://ptithcm.edu.vn/)
 
 🌱 &nbsp;I'm on track with learning more about Data Engineer.\
