@@ -1,14 +1,14 @@
 <h3 align="center">Hi, I'm Henry Mai :wave:</a></h3>
 <h3 align="center">===================</a></h3>
-<h3 align="center">Data Analysis/Data Engineer/Machine Learning(Full Stack) | Mentor @ <a href='https://www.hcmus.edu.vn/'>HCMUS</a> | Business Man | Investor in VietNam Stock Market </a></h3>
+<h3 align="center">Data Analysis/Business Intelligence/Financial Analyst | Mentor @ <a href='https://www.hcmus.edu.vn/'>HCMUS</a> | Business Man | Investor in VietNam Stock Market </a></h3>
 
 ## A little bit about me
 
 🎓 &nbsp;I'm currently juggling these [HCMUS](https://www.hcmus.edu.vn/) courses and intend to complete them soon:
+🎓 Bachelor of English Language in [HCMUSSH](https://hcmussh.edu.vn/)
+🎓 Bachelor of Business Management in [PTIT](https://ptithcm.edu.vn/)
 
-- [PhD. Data Science in HCMUS](https://sdh.hcmus.edu.vn/chuong-trinh-khoa-hoc-du-lieu/)
-
-🌱 &nbsp;I'm on track with learning more about Machine Learning, Data Engineer.\
+🌱 &nbsp;I'm on track with learning more about Data Engineer.\
 ✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
 💬 &nbsp;Lets have a Zalo, add my Zalo number +(84)79.79.96113 to talk with me.\
 ✉️ &nbsp;You can drop me an email at dannymai2012@gmail.com with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
