@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Henry Mai :wave:</a></h3>
 <h3 align="center">===================</a></h3>
-<h3 align="center">Data Analysis/Business Intelligence/Financial Analyst | Mentor @ <a href='https://www.hcmus.edu.vn/'>HCMUS</a> | Business Man | Investor in VietNam Stock Market </a></h3>
+<h3 align="center">Data Professional/A.I/Financial Analyst | Mentor @ <a href='https://www.hcmus.edu.vn/'>HCMUS</a> | Business Man | Investor in VietNam Stock Market </a></h3>
 
 ## A little bit about me
 
@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
 💬 &nbsp;Lets have a Zalo, add my Zalo number +(84)79.79.96113 to talk with me.\
 ✉️ &nbsp;You can drop me an email at dannymai2012@gmail.com with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://henrymai.website/) to get to know me a little better.
+📄 &nbsp;Check my [now page](https://www.notion.so/datatelling/) to get to know me a little better.
 
 ---
 
